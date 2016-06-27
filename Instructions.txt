@@ -1,0 +1,13 @@
+/**************************************Instruções de Uso*********************************************/
+*                                                                                                    *
+*- O arquivo encontra-se totalmente pronto para utilização, necessitando-se apenas que               *
+*se tenha certeza de que o arquivo "video.ts" esteja no mesmo diretório que o "Lavid.c";             *
+*                                                                                                    *
+*- Em caso de sucesso na extração, o console mostrará a mensagem de sucesso e os arquivos            *
+*"PAT Table.txt" e "PMT Table.txt" conterão seus dados correspondentes;                              *  
+*                                                                                                    *
+*- Em caso de qualquer erro durante os processos de obtenção de dados, o programa será abortado;     *
+*                                                                                                    *
+*- O código-fonte apresenta explicações dos processos realizados, assim como os significados de suas * 
+*variáveis.                                                                                          *       
+/****************************************************************************************************/
